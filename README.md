@@ -1,0 +1,2 @@
+# Pusula_Talent_Academy_Full_Stack_Assessment
+Pusula Talent Academy Solution Repository
